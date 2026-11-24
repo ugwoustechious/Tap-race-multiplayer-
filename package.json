@@ -1,0 +1,9 @@
+{
+  "name": "tap-race-server",
+  "version": "2.0.0",
+  "description": "Real-time room server for Tap Race",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "socket.io": "^4.8.1" }
+}
